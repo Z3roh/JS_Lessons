@@ -6,4 +6,5 @@ if(+value === 2022) {
     console.log('Спробуйте ще раз');
   }
 
-  Number.
+  alert(!log ? 'Invalid format' : 'This user is not found')
+
